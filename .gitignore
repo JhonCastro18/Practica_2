@@ -1,0 +1,26 @@
+# Archivos de compilación
+*.exe
+*.o
+*.obj
+*.log
+*.out
+*.moc
+*.qrc.cpp
+*.ui.h
+
+# Configuración de Qt Creator y otros IDEs
+*.user
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qmake.stash
+*.creator.user
+*.autosave
+*.layout
+*.vcxproj*
+*.vscode/
+
+# Carpetas de compilación
+build-*/
+Debug/
+Release/

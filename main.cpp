@@ -74,7 +74,7 @@ bool compararCadenas(char a[], char b[]) {
 }
 
 //PROBLEMA 5
-void intToString(int num, char resultado[]) {
+void intToString(int &num, char resultado[]) {
     int i = 0, j;
     int temp = num;
 
@@ -95,6 +95,7 @@ void intToString(int num, char resultado[]) {
         resultado[j] = (num % 10) + '0';
         num /= 10;
     }
+
 }
 
 //  PROBLEMA 7
