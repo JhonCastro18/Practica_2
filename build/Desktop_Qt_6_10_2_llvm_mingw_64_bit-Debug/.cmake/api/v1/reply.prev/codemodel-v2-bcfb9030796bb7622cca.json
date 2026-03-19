@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f5ef67450b298ea5bdbf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Practica_2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Practica_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Practica_2-Debug-93125fcb326e1ea0ffc4.json",
+					"name" : "Practica_2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Jhon Castro/Documents/Practica_2/build/Desktop_Qt_6_10_2_llvm_mingw_64_bit-Debug",
+		"source" : "C:/Users/Jhon Castro/Documents/Practica_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
