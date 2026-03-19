@@ -5,7 +5,9 @@ project(Practica_2 LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_executable(Practica_2 main.cpp)
+add_executable(Practica_2 main.cpp
+    funciones.h
+    funciones.cpp)
 
 # 🔥 AGREGA ESTO
 set_target_properties(Practica_2 PROPERTIES

@@ -1,3 +1,0 @@
-C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\Practica_2.dir/objects.a
-C:\Qt\Tools\llvm-mingw1706_64\bin\llvm-ar.exe qc CMakeFiles\Practica_2.dir/objects.a @CMakeFiles\Practica_2.dir\objects1.rsp
-C:\Qt\Tools\llvm-mingw1706_64\bin\clang++.exe -g -Wl,--whole-archive CMakeFiles\Practica_2.dir/objects.a -Wl,--no-whole-archive -o Practica_2.exe -Wl,--out-implib,libPractica_2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Practica_2.dir\linkLibs.rsp
