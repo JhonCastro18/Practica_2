@@ -19,4 +19,16 @@ void eliminarRepetidos(char str[]);
 // PROBLEMA 9
 int sumaPorBloques(char str[], int n);
 
+// PROBLEMA 11
+void cine();
+
+// PROBLEMA 13
+int contarEstrellas(int matriz[6][8]);
+
+// PROBLEMA 15
+void interseccionRectangulos(int *A, int *B, int *C);
+
+// PROBLEMA 17
+void sumaAmigables();
+
 #endif // FUNCIONES_H
